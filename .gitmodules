@@ -1,0 +1,6 @@
+[submodule "theme"]
+	path = theme
+	url = https://github.com/dz-io/zblog-theme
+[submodule "framework"]
+	path = framework
+	url = https://github.com/dz-io/zblog-framework
